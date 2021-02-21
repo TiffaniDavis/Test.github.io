@@ -457,10 +457,7 @@ float: none;
 #introText {
 	padding: 50px 0;
 	background: #000;
-	background-image: url('../images/filiberto-santillan-HeyFNqApSLQ-unsplash.jpg');
-	background-size: cover; 
-	background-attachment: fixed;
-	background-position: center;
+	;
 }
 #introText h1 {
 	font-size: 40px;
